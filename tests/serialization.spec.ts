@@ -1,5 +1,5 @@
 import { expect } from 'chai';
-import { Decimal, deserialize, deserializeArray } from '@cashfarm/lang';
+import { Decimal, deserialize, deserializeArray } from '@doare/lang';
 import { inspect } from 'util';
 
 class SampleObject {

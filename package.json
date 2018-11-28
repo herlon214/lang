@@ -1,5 +1,5 @@
 {
-  "name": "@cashfarm/lang",
+  "name": "@doare/lang",
   "version": "0.8.4",
   "description": "Extends TypeScript/Javascript with basic classes and functions",
   "main": "lib/index.js",
@@ -29,7 +29,7 @@
   "keywords": [
     "shiny"
   ],
-  "author": "Saulo Vallory <saulo@cashfarm.com>",
+  "author": "Saulo Vallory <saulo@doare.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cashfarm/lang/issues"

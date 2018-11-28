@@ -1,5 +1,5 @@
 import { expect } from 'chai';
-import { Decimal } from '@cashfarm/lang';
+import { Decimal } from '@doare/lang';
 import { inspect } from 'util';
 
 describe('Decimal', () => {

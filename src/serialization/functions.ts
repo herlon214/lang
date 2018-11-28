@@ -1,11 +1,6 @@
 import * as CT from 'class-transformer';
 import { Constructor } from '../types';
-import {
-  IExcludeOptions,
-  IExposeOptions,
-  ITypeOptions,
-  ITransformationOptions,
-  ITransformOptions } from './interfaces';
+import { ITransformationOptions } from './interfaces';
 
 /**
  * Enum representing the different transformation types.

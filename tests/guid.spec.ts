@@ -1,5 +1,5 @@
 import { expect } from 'chai';
-import { Guid } from '@cashfarm/lang';
+import { Guid } from '@doare/lang';
 import { inspect } from 'util';
 
 describe('Guid', () => {
